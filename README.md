@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
-
+https://imgur.com/a/2sgeJVm
 * [ ] Nav bar
 
 ## Video Walkthrough
